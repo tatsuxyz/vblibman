@@ -1,0 +1,8 @@
+# YÊU CẦU CÀI ĐẶT
+Yêu cầu cài Microsoft Access Database Engine 2010 để sử dụng
+File cài đặt được đính kèm với Source Code của Project này
+
+Có thể tải file cài đặt theo link sau: https://www.microsoft.com/en-us/download/details.aspx?id=13255
+
+# CHƯƠNG TRÌNH ĐƯỢC BIÊN DỊCH
+Chương trình được biên dịch nằm ở thư mục ./bin/Release/netcoreapp3.1

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b26bd5cc-b5c7-4e6d-a231-6b95e8b7bb25": {
+      "ProjectGuid": "b26bd5cc-b5c7-4e6d-a231-6b95e8b7bb25",
+      "DisplayName": "libman",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

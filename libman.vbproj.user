@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="io\chitietsach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="io\sinhvien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="libman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="io\nhaxuatban.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="io\phieumuonsach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="io\tacgia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modify\modifyBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewAuthor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewPubs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewRent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewStus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
